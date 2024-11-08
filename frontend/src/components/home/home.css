@@ -1,0 +1,30 @@
+.home {
+    width: 100%;
+    height: 100vh;
+    background-image: url("logo1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.home h1  {
+    font-size: 60px;
+    color: rgba(250, 235, 215, 0.767);
+}
+
+p{
+    color: antiquewhite;
+}
+
+.home-btn {
+    border: none;
+    outline: none;
+    background-image: linear-gradient(90deg,#1e130c,#9a8478);
+    opacity: 0.8;
+    border-radius: 5px;
+    color: white !important;
+    font-weight: bold;
+}
+
+.home-btn:hover{
+    opacity: 1;
+}

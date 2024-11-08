@@ -1,0 +1,27 @@
+.signup {
+    width: 100%;
+    height: 100vh;
+    background-image: url("login1.jpg");
+    background-size: contain;
+}
+
+.column {
+    height: 100vh;
+}
+
+.input-signup {
+    outline: none;
+}
+
+.sign-up-heading {
+    font-size: 100px;
+    color: rgba(214, 164, 95, 0.87);
+    opacity: 0.8;
+}
+
+.btn-signup {
+    background-color: rgba(235, 159, 78, 0.87);
+    color: white;
+    outline: none;
+    border: none;
+}
